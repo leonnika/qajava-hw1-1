@@ -19,7 +19,10 @@
 * отчет о тестировании
 
 
-В качестве тестовых данных использовались данные указанные в [руководстве использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) :
+В качестве тестовых данных использовались данные:
+1. [Инструкция по установке OpenJDK11 ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+2. [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+3. Данные указанные в [руководстве использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) :
 
 
 №пп | значение  |результат
