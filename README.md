@@ -9,11 +9,12 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [ссылка на issues c багом №1](https://github.com/leonnika/qajava-hw1-1/issues/1)
-* [ссылка на issues багом №2](https://github.com/leonnika/qajava-hw1-1/issues/2)
-* [ссылка на issues с багом №3](https://github.com/leonnika/qajava-hw1-1/issues/3)
-* 
-*
+* [ссылка на issues c багом №1 Необходимы права администратора](https://github.com/leonnika/qajava-hw1-1/issues/1)
+* [ссылка на issues c багом №2 несоответствий версий ПО](https://github.com/leonnika/qajava-hw1-1/issues/2)
+* [ссылка на issues с багом №3 Отсутствие шагов для корректного запуска ПО](https://github.com/leonnika/qajava-hw1-1/issues/3)
+* [ссылка на issues c багом №4 Ошибочные результаты работы ПО](https://github.com/leonnika/qajava-hw1-1/issues/4)
+ * [ссылка на issues c багом №5 Ошибочные валидные номера](https://github.com/leonnika/qajava-hw1-1/issues/5)
+ * [ссылка на issues c багом №6 Ощибочные невали9дные номера](https://github.com/leonnika/qajava-hw1-1/issues/6)
 
 
 ## Описание процесса тестирования
