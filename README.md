@@ -9,9 +9,13 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [ссылка на issues c багом](https://github.com/leonnika/qajava-hw1-1/issues/1)
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* [ссылка на issues c багом №1](https://github.com/leonnika/qajava-hw1-1/issues/1)
+* [ссылка на issues багом №2](https://github.com/leonnika/qajava-hw1-1/issues/2)
+* [ссылка на issues с багом №3](https://github.com/leonnika/qajava-hw1-1/issues/3)
+* 
+*
+
+
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
 
